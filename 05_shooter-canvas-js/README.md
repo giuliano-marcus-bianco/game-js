@@ -91,6 +91,14 @@ Repositório oficial: [https://github.com/giuliano-marcus-bianco/game-js](https:
 
 Este projeto oferece uma base sólida para quem deseja se aprofundar em desenvolvimento de jogos 2D com JavaScript, abordando controle de performance, sprites, interação, estrutura de código limpa e escalável.
 
+## 🛠️ Próximos Passos
+
+- Adicionar função de pause ao jogo
+- Criar evento para detectar mudança de largura e altura da tela
+- Ao mudar o tamanho da tela, verificar se o pause está ativado; se não estiver, ativar automaticamente
+- Ajustar o código para que o jogo seja responsivo à mudança de tamanho da tela
+- Pesquisar como portar/traduzir o código para um aplicativo Android (APK)
+
 ---
 
 🎯 Experimente o jogo, modifique sprites, sons ou crie novas funcionalidades!
