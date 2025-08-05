@@ -36,7 +36,7 @@ Este repositório contém **quatro miniprojetos** em **Vanilla JS** e **HTML5 Ca
 git clone https://github.com/giuliano-marcus-bianco/game-js.git
 
 # 2. Acesse a pasta
-cd flying-creatures-js
+cd 03_flying-creatures-js
 
 # 3. Abra o index.html no navegador
 ```
